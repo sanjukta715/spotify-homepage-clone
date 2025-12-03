@@ -15,4 +15,4 @@ A front-end clone of Spotify's web player homepage built using HTML and CSS.
 - Font Awesome
 
 ##  Live Demo
-https://github.com/sanjukta715/spotify-homepage-clone 
+
